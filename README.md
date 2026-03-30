@@ -8,14 +8,6 @@ Aplicação completa de CRUD (Create, Read, Update, Delete) utilizando:
 
 ---
 
-## 📸 Demonstração	
-
-![Tela inicial](tela_inicial.png)
-![Tela de cadastro](tela_de_cadastro.png)
-![Tela de listagem](tela_de_listagem.png)
-
----
-
 ## 🧠 Funcionalidades
 
 * ✅ Listar usuários
@@ -83,3 +75,8 @@ flutter run -d chrome
 
 ---
 
+## 📸 Demonstração	
+
+![Tela inicial](tela_inicial.png)
+![Tela de cadastro](tela_de_cadastro.png)
+![Tela de listagem](tela_de_listagem.png)
